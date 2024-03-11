@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Website</title>
+    <link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+        <!-- top-bar -->
+    <div class="topbar"></div>
+
+       
+    
+    <div class="sisi-kiri">
+        <figure>
+            <video src="../video/omg.mp4" width="255px" controls poster="../img/newjeans copy.jpg">Browser anda tidak support tag <code>video</code></video>
+            <figcaption>OMG-Newjeans</figcaption>
+        </figure>
+
+    </div>
+    <div class="container">
+
+        <!-- Sosial Media -->
+        <a href="http:/www.instagram.com/Lexxshin07" target="_blank" class="ig"></a>
+        <a href="#" target="_blank" class="twit"></a>
+        <a href="#" target="_blank" class="fb"></a>
+
+        <!-- Header & Navigasi -->
+        <div class="header">
+            <h1 class="judul">My Website</h1>
+            <ul>
+                <li><a href="../welcom/index.html">Home</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Product</a></li>
+                <li><a href="#">Service</a></li>
+                <li><a href="#">Contact</a></li>
+                <li><a href="../hmm/prett.html" target="_blank">???</a></li>
+            </ul>
+        </div>
+
+        <!-- Hero Image/Banner -->
+        <div class="hero"></div>
+
+        <!-- Content -->
+        <div class="content cf">
+            <div class="main">
+            <h2>NewJeans</h2>
+                <p class="penulis">Ditulis oleh <a href="#">Ariel Ahmadi Lesmama</a> 2 februari 2023</p>
+                <p>
+                    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odio nostrum facilis corrupti et tempore sint inventore magni ullam voluptate ad. Maxime dolores, beatae magnam dicta dolor autem officia? Incidunt, voluptates.
+                    In, deserunt! Similique assumenda animi a quisquam eveniet rerum dolore, possimus soluta sit unde, iure labore, quos culpa ipsum nostrum ipsa nihil dolor nesciunt. Consectetur tempore iste omnis quos quidem!
+                    Eaque numquam laboriosam eos et similique, sint officia ipsam, mollitia accusantium eum maxime ea nostrum est temporibus sed perferendis accusamus quisquam quas labore modi in dicta. Cupiditate dolor eligendi animi?
+                    Ipsum dolore eveniet officia nisi consequatur, ex placeat distinctio sit voluptate eius consectetur magni officiis odio tempore aliquam, voluptas voluptates eligendi harum inventore. Ipsa modi esse, reiciendis repellendus error autem?
+                    Eius, commodi, nesciunt cupiditate veritatis ipsam accusantium illo incidunt quos eaque, minus necessitatibus. Adipisci, commodi minima! Libero, mollitia reiciendis, id alias debitis repellendus excepturi est harum magnam possimus enim. Exercitationem.
+                </p>
+                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Earum quae alias est culpa, cupiditate ut, repellat modi exercitationem illo deleniti repudiandae ex praesentium ipsum commodi. Esse quis commodi numquam quisquam.
+                Facere ad ullam aut, labore repellendus explicabo id, ex eos illum architecto incidunt culpa nihil mollitia modi ab rerum libero sit quaerat maiores! Id eligendi suscipit voluptatem ea labore in.
+                Reiciendis iperferendis, quisquam reiciendis error enim accusamus facere autem sunt excepturi, iure quibusdam sit magni, sapiente doloremque accusantium deserunt sint odio. Minus accusamus repudiandae sapiente!
+                Illo delectus quas voluptatum mollitia hic, animi dolorum doloremque quo cupiditate veritatis quibusdam molestiae officiis illum quia vel eaque porro dolore ipsa iure atque sed at iusto eius ipsum. Aliquam?</p>
+                <p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Et, odio adipisci numquam dolorum voluptates saepe assumenda explicabo, nisi tenetur beatae cupiditate recusandae minima, velit laboriosam? Praesentium voluptates delectus sit error?
+                    Libero dplaceat provident? Corrupti consequuntur, molestiae voluptates labore sapiente reprehenderit? Excepturi, accusantium maiores corporis cum, rerum pariatur, doloremque officia sit provident a libero facilis sed voluptatem tenetur consectetur!
+                    Vero dicta amet sed rem similique odio necessitatibus fugiat est. Ipsa et minus veniam totam, unde facere nemo qui eaque suscipit nobis, ipsam, placeat praesentium accusamus ipsum ratione dolorum est.
+                    Itaque, est aspernatur nemo tenetur, commodi quia voluptates provident reiciendis repudiandae iste soluta similique illo blanditiis cum voluptatem dolorum laudantium quas reprehenderit quo quidem cupiditate dolore nesciunt. Pariatur, dolorum doloribus!
+                    Consequatur neque sit blanditiis tempora deleniti. Sint obcaecati consequuntur placeat doloremque hic nemo culpa fuga cupiditate totam labore sit quisquam ad illum ipsum, dolor tenetur quis id voluptates, exercitationem eveniet.
+                </p>
+    </div>
+
+        <!-- SideBar -->
+         <div class="sidebar">
+        <h3>Tentang Penulis </h3>
+        <img src="../img/download.png" alt="ArielAhmadiLesmana" title="Ariel">
+        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nemo eos voluptatum beatae libero natus, voluptatem maxime corporis facere delectus nihil fugit sit tenetur rerum eum placeat debitis, adipisci et cum. Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus, reprehenderit a ad neque dolore animi est nemo nisi modi dignissimos recusandae vitae quia deserunt ab ipsum laboriosam mollitia! Non, temporibus?</p>
+        
+        <div class="halaman-lain">
+            <h3 class="teks-halaman">Kunjungi Halaman Lainnya</h3>
+            <div class="bagian1">
+                <a href="../Han Sohee/Hansohe.html" target="_blank" class="link-1"> <img src="../img/HAN SO HEE.png" alt="Han Sohee" title="Han Sohee"></a>
+                <a href="../Han Sohee/Hansohe.html" target="_blank"><span class="teks-highlight">HAN SOHEE,</span> adipisicing elit. Asperiores nostrum expedita dolorum aliquam quaerat totam inventore. Doloribus tempore quia earum consequuntur aperiam minus, perferendis vel iure reiciendis dolore quaerat laboriosam.</a>
+            </div>
+            <div class="bagian2">
+                <a href="../Kim Minji/KimMinji.html"target="_blank"class="link-2"> <img src="../img/newjeans.jpg" alt="Kim Minji" title="Kim Minji"></a>
+                <a href="../Kim Minji/KimMinji.html" target="_blank"><span class="teks-highlight">KIM MINJI,</span> adipisicing elit. Asperiores nostrum expedita dolorum aliquam quaerat totam inventore. Doloribus tempore quia earum consequuntur aperiam minus, perferendis vel iure reiciendis dolore quaerat laboriosam.</a>
+            </div>
+            <div class="bagian3">
+                <a href="../../Galery/index.html" target="_blank" class="link-3"> <img src="../img/reina.png" alt="Tekken8" title="Tekken8"></a>
+                <a href="../../Galery/index.html" target="_blank"><span class="teks-highlight">TEKKEN 8,</span> Nama-nama karakter digame Tekken 8 2024. seperti yang kita ketahui digame Tekken banyak sekali karakter yang kuat dan tangguh dan tahun ini mereka mengeluarkan Tekken8.</a>
+            </div>
+        </div>
+
+        </div>
+        </div>
+
+        <!-- footer -->
+        <div class="footer">
+            <p class="copy">Copyright 2023. ArielAhmadiLesmana.</p>
+        </div>
+    </div>
+
+
+
+ <script src="script.js"></script>
+    
+</body>
+</html>
